@@ -1,2 +1,2 @@
 # CoordinateCenterMass
-Calculates the central coordinate of a given point cloud
+Calculates the central coordinate of a given geographical point cloud
